@@ -1,0 +1,13 @@
+[
+    {
+      "run": "21866184-k",
+      "nombre": "Josué",
+      "apellido": "Cornejo",
+      "direccion": "El peñon 078",
+      "fono": 935200475,
+      "correo":"Josue.cornejo03@inacapmail.cl",
+      "montoCredito": 505050,
+      "deuda":606060,
+      "tipo": 3
+    }
+]
